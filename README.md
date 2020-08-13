@@ -1,6 +1,6 @@
 # Pacman3D
 
-<h1>Faça um jogo em primeira pessoa, no estilo Pac-Man, que tenha os seguintes requisitos:</h1>
+<h1>Este é um jogo em primeira pessoa, no estilo Pac-Man, que tem os seguintes requisitos:</h1>
 <ul>
   <li>Um labirinto com estrutura semelhante à do PAC-MAN do ATARI;</li>
   <li>-Quatro personagens não-jogáveis (NPCs) que devem perseguir o personagem principal PC);</li>
